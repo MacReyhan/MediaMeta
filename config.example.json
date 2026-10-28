@@ -1,0 +1,15 @@
+{
+  "tmdb_token": "",
+  "language": "en-US",
+  "image_language": "en,null",
+  "overwrite_art": false,
+  "download_actor_images": true,
+  "embed_image_urls": true,
+  "dry_run": true,
+  "threads": 4,
+  "confidence_threshold": 80,
+  "rename_enabled": false,
+  "rename_template": "{title} ({year})",
+  "appearance": "dark",
+  "last_folder": ""
+}
